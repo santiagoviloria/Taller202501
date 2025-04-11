@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Taller202501</string>
+    <string name="boton_aumentar">Incrementar fuente</string>
+    <string name="mensaje">HOLA MUNDO</string>
+</resources>
